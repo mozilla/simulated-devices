@@ -1,0 +1,36 @@
+<!doctype html>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width,initial-scale=1.0'>
+  <title> device check </title>
+</head>
+<body>
+  <pre id=data></pre>
+  <script>
+    var pre = document.getElementById('data'),
+        mM = window['matchMedia'] || window['msMatchMedia'],
+        docElem = document.documentElement;
+    function viewport() {
+      var clientWidth = docElem.clientWidth,
+          clientHeight = docElem.clientHeight,
+          innerWidth = window.innerWidth,
+          innerHeight = window.innerHeight;
+      // Inspired by http://leolanese.com/blog/?p=1038
+      return mM && clientWidth < innerWidth && mM('(min-width:' + innerWidth + 'px)')['matches']
+        ? [innerWidth, innerHeight]
+        : [clientWidth, clientHeight];
+    }
+    function update() {
+      var v = viewport();
+      var data = {
+        width: v[0],
+        height: v[1],
+        pixelRatio: window.devicePixelRatio,
+        userAgent: navigator.userAgent,
+      };
+      pre.textContent = JSON.stringify(data, 0, 2) + ',';
+    }
+    window.addEventListener('load', update, false);
+    window.addEventListener('resize', update, false);
+  </script>
+</body>
