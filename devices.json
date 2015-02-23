@@ -78,7 +78,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -87,7 +87,7 @@
       "width": 360,
       "height": 640,
       "pixelRatio": 1.5,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -123,7 +123,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -135,7 +135,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; LG-D300; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; LG-D300; rv:23.0) Gecko/23.0 Firefox/23.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -198,7 +198,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; rv:30.0) Gecko/30.0 Firefox/30.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -207,7 +207,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; ZTEOPEN; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; ZTEOPEN; rv:18.0) Gecko/18.0 Firefox/18.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -216,7 +216,7 @@
       "width": 320,
       "height": 450,
       "pixelRatio": 1.5,
-      "userAgent": "Mozilla/5.0 (Mobile; OPENC; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; OPENC; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -272,7 +272,7 @@
       "width": 1280,
       "height": 800,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -326,7 +326,7 @@
       "width": 1024,
       "height": 600,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     }
