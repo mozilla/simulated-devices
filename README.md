@@ -4,13 +4,13 @@ A catalog of common web-enabled devices and their properties.
 
 ## Properties
 
-- `name`: Device brand and model(s).
-- `width`: Device viewport width.
-- `height`: Device viewport height.
-- `pixelRatio`: Ratio from viewport to physical screen pixels.
-- `userAgent`: UserAgent string of the device's browser.
-- `touch`: Whether the device has a touch screen.
-- `firefoxOS`: Whether the device supports Firefox OS.
+    name: Device brand and model(s).
+    width: Device viewport width.
+    height: Device viewport height.
+    pixelRatio: Ratio from viewport to physical screen pixels.
+    userAgent: UserAgent string of the device's browser.
+    touch: Whether the device has a touch screen.
+    firefoxOS: Whether the device supports Firefox OS.
 
 ## Contribute
 
