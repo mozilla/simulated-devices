@@ -98,7 +98,7 @@
       "pixelRatio": 2,
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 4 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
-      "firefoxOS": false
+      "firefoxOS": true
     },
     {
       "name": "Google Nexus 5",
@@ -107,7 +107,7 @@
       "pixelRatio": 3,
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 5 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
-      "firefoxOS": false
+      "firefoxOS": true
     },
     {
       "name": "Google Nexus S",
@@ -116,7 +116,7 @@
       "pixelRatio": 1.5,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; Nexus S Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
       "touch": true,
-      "firefoxOS": false
+      "firefoxOS": true
     },
     {
       "name": "Intex Cloud Fx",
