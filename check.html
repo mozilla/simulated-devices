@@ -7,24 +7,11 @@
 <body>
   <pre id=data></pre>
   <script>
-    var pre = document.getElementById('data'),
-        mM = window['matchMedia'] || window['msMatchMedia'],
-        docElem = document.documentElement;
-    function viewport() {
-      var clientWidth = docElem.clientWidth,
-          clientHeight = docElem.clientHeight,
-          innerWidth = window.innerWidth,
-          innerHeight = window.innerHeight;
-      // Inspired by http://leolanese.com/blog/?p=1038
-      return mM && clientWidth < innerWidth && mM('(min-width:' + innerWidth + 'px)')['matches']
-        ? [innerWidth, innerHeight]
-        : [clientWidth, clientHeight];
-    }
+    var pre = document.getElementById('data');
     function update() {
-      var v = viewport();
       var data = {
-        width: v[0],
-        height: v[1],
+        width: screen.width,
+        height: screen.height,
         pixelRatio: window.devicePixelRatio,
         userAgent: navigator.userAgent,
       };
