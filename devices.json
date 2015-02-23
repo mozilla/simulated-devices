@@ -129,6 +129,12 @@
     },
     {
       "name": "KDDI Fx0"
+      "width": 360,
+      "height": 640,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (Mobile; LGL25; rv:32.0) Gecko/32.0 Firefox/32.0",
+      "touch": true,
+      "firefoxOS": true
     },
     {
       "name": "LG Fireweb",
