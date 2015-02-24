@@ -191,6 +191,15 @@
       "firefoxOS": false
     },
     {
+      "name": "Sony Xperia Z3",
+      "width": 360,
+      "height": 640,
+      "pixelRatio": 3,
+      "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
+      "touch": true,
+      "firefoxOS": true
+    },
+    {
       "name": "Spice Fire One Mi-FX1",
       "width": 320,
       "height": 480,
