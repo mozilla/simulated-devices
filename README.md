@@ -15,18 +15,18 @@ A catalog of common web-enabled devices and their properties.
 - `width` viewport width.
 - `height` viewport height.
 - `pixelRatio` ratio from viewport to physical screen pixels.
-- `userAgent` UserAgent string of the device's browser.
-- `touch` whether the device has a touch screen.
-- `firefoxOS` whether the device supports Firefox OS.
+- `userAgent` UA string of the device's browser.
+- `touch` whether it has a touch screen.
+- `firefoxOS` whether Firefox OS is supported.
 
 ## Types
 
-- `phones` smart phones.
-- `tablets` tablets.
-- `laptops` laptops.
-- `televisions` TVs.
-- `consoles` gaming consoles.
-- `watches` smart watches.
+- `phones` (smart phones)
+- `tablets`
+- `laptops`
+- `televisions`
+- `consoles` (gaming consoles)
+- `watches` (smart watches)
 
 ## Contribute
 
