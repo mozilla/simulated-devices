@@ -1,5 +1,5 @@
 {
-  "TYPES": ["phones", "tablets", "laptops", "televisions", "watches", "consoles"],
+  "TYPES": [ "phones", "tablets", "laptops", "televisions", "consoles", "watches" ],
   "phones": [
     {
       "name": "Firefox OS Flame",
@@ -404,6 +404,8 @@
       "firefoxOS": true
     }
   ],
+  "consoles": [
+  ],
   "watches": [
     {
       "name": "LG G Watch",
@@ -441,7 +443,5 @@
       "touch": true,
       "firefoxOS": true
     }
-  ],
-  "consoles": [
   ]
 }
