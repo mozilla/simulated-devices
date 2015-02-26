@@ -9,24 +9,24 @@ A catalog of common web-enabled devices and their properties.
       ]
     }
 
-## Types
-
-- `phones` Smartphones.
-- `tablets` Tablets.
-- `laptops` Laptops.
-- `televisions` TVs.
-- `consoles` Gaming consoles.
-- `watches` Smartwatches.
-
-## Device properties
+## Properties
 
 - `name` Device brand and model(s).
-- `width` Device viewport width.
-- `height` Device viewport height.
+- `width` Viewport width.
+- `height` Viewport height.
 - `pixelRatio` Ratio from viewport to physical screen pixels.
 - `userAgent` UserAgent string of the device's browser.
 - `touch` Whether the device has a touch screen.
 - `firefoxOS` Whether the device supports Firefox OS.
+
+## Types
+
+- `phones` Smart phones.
+- `tablets` Tablets.
+- `laptops` Laptops.
+- `televisions` TVs.
+- `consoles` Gaming consoles.
+- `watches` Smart watches.
 
 ## Contribute
 
