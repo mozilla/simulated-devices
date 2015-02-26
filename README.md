@@ -9,9 +9,9 @@ A catalog of common web-enabled devices and their properties.
       ]
     }
 
-## Properties
+## Device
 
-- `name` Device brand and model(s).
+- `name` Brand and model(s).
 - `width` Viewport width.
 - `height` Viewport height.
 - `pixelRatio` Ratio from viewport to physical screen pixels.
