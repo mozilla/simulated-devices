@@ -377,6 +377,15 @@
   ],
   "televisions": [
     {
+      "name": "720p HD Television",
+      "width": 1280,
+      "height": 720,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "firefoxOS": true
+    }
+    {
       "name": "1080p Full HD Television",
       "width": 1920,
       "height": 1080,
@@ -394,15 +403,6 @@
       "touch": false,
       "firefoxOS": true
     },
-    {
-      "name": "720p HD Television",
-      "width": 1280,
-      "height": 720,
-      "pixelRatio": 1,
-      "userAgent": "",
-      "touch": false,
-      "firefoxOS": true
-    }
   ],
   "consoles": [
   ],
