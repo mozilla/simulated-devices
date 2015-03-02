@@ -384,7 +384,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": true
-    }
+    },
     {
       "name": "1080p Full HD Television",
       "width": 1920,
@@ -402,7 +402,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": true
-    },
+    }
   ],
   "consoles": [
   ],
