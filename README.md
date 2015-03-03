@@ -1,6 +1,6 @@
-# devices.json
+# devices
 
-A catalog of common web-enabled devices and their properties.
+`devices.json` is a catalog of common web-enabled devices and their properties.
 
     {
       TYPES: [ "phones", … ],
@@ -9,7 +9,7 @@ A catalog of common web-enabled devices and their properties.
       ]
     }
 
-## Device
+## Device properties
 
 - `name` brand and model(s).
 - `width` viewport width.
@@ -19,7 +19,7 @@ A catalog of common web-enabled devices and their properties.
 - `touch` whether it has a touch screen.
 - `firefoxOS` whether Firefox OS is supported.
 
-## Types
+## Device types
 
 - `phones` (smart phones)
 - `tablets`
@@ -31,7 +31,7 @@ A catalog of common web-enabled devices and their properties.
 ## Contribute
 
 - Use the `check.html` helper.
-- Submit [pull requests](https://github.com/jankeromnes/devices.json/pulls).
+- Submit [pull requests](https://github.com/jankeromnes/devices/pulls).
 
 ## Sources
 
