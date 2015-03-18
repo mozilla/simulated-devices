@@ -236,6 +236,15 @@
       "firefoxOS": true
     },
     {
+      "name": "ZTE Open II",
+      "width": 320,
+      "height": 480,
+      "pixelRatio": 1,
+      "userAgent": "Mozilla/5.0 (Mobile; OPEN2; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "touch": true,
+      "firefoxOS": true
+    },
+    {
       "name": "ZTE Open C",
       "width": 320,
       "height": 450,
