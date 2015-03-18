@@ -11,20 +11,29 @@
       "firefoxOS": true
     },
     {
-      "name": "Alcatel Fire E",
+      "name": "Alcatel One Touch Fire",
       "width": 320,
       "height": 480,
-      "pixelRatio": 2,
+      "pixelRatio": 1,
       "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch4012X; rv:28.0) Gecko/28.0 Firefox/28.0",
       "touch": true,
       "firefoxOS": true
     },
     {
-      "name": "Alcatel One Touch Fire, Fire C",
+      "name": "Alcatel One Touch Fire C",
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch4012X; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch4019X; rv:28.0) Gecko/28.0 Firefox/28.0",
+      "touch": true,
+      "firefoxOS": true
+    },
+    {
+      "name": "Alcatel One Touch Fire E",
+      "width": 320,
+      "height": 480,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch6015X; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     },
