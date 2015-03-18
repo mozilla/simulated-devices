@@ -150,7 +150,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; LG-D300; rv:23.0) Gecko/23.0 Firefox/23.0",
+      "userAgent": "Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1",
       "touch": true,
       "firefoxOS": true
     },
@@ -231,7 +231,7 @@
       "width": 320,
       "height": 480,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; ZTEOPEN; rv:18.0) Gecko/18.0 Firefox/18.0",
+      "userAgent": "Mozilla/5.0 (Mobile; ZTEOPEN; rv:18.1) Gecko/18.0 Firefox/18.1",
       "touch": true,
       "firefoxOS": true
     },
@@ -296,7 +296,7 @@
       "width": 1280,
       "height": 800,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:32.0) Gecko/32.0 Firefox/32.0",
+      "userAgent": "Mozilla/5.0 (Tablet; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     },
@@ -350,7 +350,7 @@
       "width": 1024,
       "height": 600,
       "pixelRatio": 1,
-      "userAgent": "Mozilla/5.0 (Mobile; rv:32.0) Gecko/32.0 Firefox/32.0",
+      "userAgent": "Mozilla/5.0 (Tablet; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true
     }
