@@ -423,6 +423,15 @@
     }
   ],
   "consoles": [
+    {
+      "name": "Nintendo 3DS",
+      "width": 320,
+      "height": 240,
+      "pixelRatio": 1,
+      "userAgent": "Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7585.EU",
+      "touch": true,
+      "firefoxOS": false
+    }
   ],
   "watches": [
     {
