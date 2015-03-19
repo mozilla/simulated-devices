@@ -433,6 +433,15 @@
       "firefoxOS": false
     },
     {
+      "name": "Nintendo Wii U Gamepad",
+      "width": 854,
+      "height": 480,
+      "pixelRatio": 0.87,
+      "userAgent": "Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.28 (KHTML, like Gecko) NX/3.0.3.12.15 NintendoBrowser/4.1.1.9601.EU",
+      "touch": true,
+      "firefoxOS": false
+    },
+    {
       "name": "Sony PlayStation Vita",
       "width": 960,
       "height": 544,
