@@ -431,6 +431,15 @@
       "userAgent": "Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7585.EU",
       "touch": true,
       "firefoxOS": false
+    },
+    {
+      "name": "Sony PlayStation Vita",
+      "width": 960,
+      "height": 544,
+      "pixelRatio": 1,
+      "userAgent": "Mozilla/5.0 (Playstation Vita 1.61) AppleWebKit/531.22.8 (KHTML, like Gecko) Silk/3.2",
+      "touch": true,
+      "firefoxOS": false
     }
   ],
   "watches": [
