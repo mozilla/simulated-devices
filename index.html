@@ -1,0 +1,57 @@
+<!doctype html>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width,initial-scale=1.0'>
+  <title> device check </title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+        integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <style>
+  </style>
+</head>
+<body>
+  <div class="container">
+    <form id=form method="get" action="https://github.com/jankeromnes/devices/issues/new">
+      <div class="form-group">
+        <label for="title">Device Name</label>
+        <input type="text" name=title id=title
+               placeholder="Device Name" class="form-control"
+               autofocus="true"/>
+      </div>
+      <div class="form-group">
+        <label for="title">Data</label>
+        <textarea name=body id=body rows="8" class="form-control"></textarea>
+      </div>
+      <input type="submit" value="Create Github Issue to Add Device" class="btn btn-primary"/>
+    </form>
+  </div>
+  <script>
+    var form = document.getElementById('form');
+    var title = document.getElementById('title');
+    var body = document.getElementById('body');
+
+    function update() {
+      var data = {
+        name: title.value.trim(),
+        width: screen.width,
+        height: screen.height,
+        pixelRatio: window.devicePixelRatio,
+        userAgent: navigator.userAgent,
+      };
+      body.textContent = JSON.stringify(data, 0, 2);
+    }
+
+    function markupFormat() {
+      body.textContent = '```json\n' + body.textContent + '\n```';
+    }
+
+    window.addEventListener('load', update, false);
+    window.addEventListener('resize', update, false);
+
+    title.addEventListener('keyup', update);
+    title.addEventListener('change', update);
+    title.addEventListener('input', update);
+    title.addEventListener('paste', update);
+
+    form.addEventListener('submit', markupFormat);
+  </script>
+</body>
