@@ -56,6 +56,15 @@
       "firefoxOS": false
     },
     {
+      "name": "Apple iPhone 5s",
+      "width": 320,
+      "height": 568,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Safari/601.1",
+      "touch": true,
+      "firefoxOS": false
+    },
+    {
       "name": "Apple iPhone 6",
       "width": 375,
       "height": 667,
