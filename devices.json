@@ -9,7 +9,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "Alcatel One Touch Fire",
@@ -19,7 +19,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch4012X; rv:28.0) Gecko/28.0 Firefox/28.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "Alcatel One Touch Fire C",
@@ -29,7 +29,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch4019X; rv:28.0) Gecko/28.0 Firefox/28.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "Alcatel One Touch Fire E",
@@ -39,7 +39,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; ALCATELOneTouch6015X; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "Apple iPhone 4",
@@ -49,7 +49,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPhone 5",
@@ -59,7 +59,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPhone 5s",
@@ -69,7 +69,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Safari/601.1",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPhone 6",
@@ -79,7 +79,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPhone 6 Plus",
@@ -89,7 +89,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPhone 6s",
@@ -99,7 +99,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPhone 6s Plus",
@@ -109,7 +109,7 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "BlackBerry Z30",
@@ -119,7 +119,7 @@
       "userAgent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "blackBerryos"
     },
     {
       "name": "Geeksphone Keon",
@@ -129,7 +129,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Geeksphone Peak, Revolution",
@@ -139,7 +139,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Google Nexus S",
@@ -149,7 +149,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; Nexus S Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Google Nexus 4",
@@ -159,7 +159,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 4 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Google Nexus 5",
@@ -169,7 +169,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 5 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Intex Cloud Fx",
@@ -179,7 +179,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "KDDI Fx0",
@@ -189,7 +189,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; LGL25; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "LG Fireweb",
@@ -199,7 +199,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "LG Optimus L70",
@@ -209,7 +209,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Nokia Lumia 520",
@@ -219,7 +219,7 @@
       "userAgent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Nokia N9",
@@ -229,7 +229,7 @@
       "userAgent": "Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "OnePlus One",
@@ -239,7 +239,7 @@
       "userAgent": "Mozilla/5.0 (Android 5.1.1; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Samsung Galaxy S III",
@@ -249,7 +249,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 4.0; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Samsung Galaxy S4",
@@ -259,7 +259,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Sony Xperia Z3",
@@ -269,7 +269,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Spice Fire One Mi-FX1",
@@ -279,7 +279,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "Symphony GoFox F15",
@@ -289,7 +289,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:30.0) Gecko/30.0 Firefox/30.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "ZTE Open",
@@ -299,7 +299,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; ZTEOPEN; rv:18.1) Gecko/18.0 Firefox/18.1",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "ZTE Open II",
@@ -309,7 +309,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; OPEN2; rv:28.0) Gecko/28.0 Firefox/28.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "ZTE Open C",
@@ -319,7 +319,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; OPENC; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     },
     {
       "name": "Zen Fire 105",
@@ -329,7 +329,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:28.0) Gecko/28.0 Firefox/28.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     }
   ],
   "tablets": [
@@ -341,7 +341,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "fireos"
     },
     {
       "name": "Apple iPad",
@@ -351,7 +351,7 @@
       "userAgent": "Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "Apple iPad Mini",
@@ -361,7 +361,7 @@
       "userAgent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "ios"
     },
     {
       "name": "BlackBerry PlayBook",
@@ -371,7 +371,7 @@
       "userAgent": "Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "blackBerryos"
     },
     {
       "name": "Foxconn InFocus",
@@ -381,7 +381,7 @@
       "userAgent": "Mozilla/5.0 (Tablet; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Google Nexus 7",
@@ -391,7 +391,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Google Nexus 10",
@@ -401,7 +401,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Samsung Galaxy Note II",
@@ -411,7 +411,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 4.1; en-us; GT-N7100 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Samsung Galaxy Note 3",
@@ -421,7 +421,7 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Tesla Model S",
@@ -431,7 +431,7 @@
       "userAgent": "Mozilla/5.0 (X11; Linux) AppleWebKit/534.34 (KHTML, like Gecko) QtCarBrowser Safari/534.34",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "VIA Vixen",
@@ -441,7 +441,7 @@
       "userAgent": "Mozilla/5.0 (Tablet; rv:32.0) Gecko/32.0 Firefox/32.0",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": true
+      "os": "fxos"
     }
   ],
   "laptops": [
@@ -453,7 +453,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "windows"
     },
     {
       "name": "Laptop with MDPI screen",
@@ -463,7 +463,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "windows"
     },
     {
       "name": "Laptop with touch",
@@ -473,7 +473,7 @@
       "userAgent": "",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "windows"
     }
   ],
   "televisions": [
@@ -485,7 +485,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "1080p Full HD Television",
@@ -495,7 +495,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "4K Ultra HD Television",
@@ -505,7 +505,7 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     }
   ],
   "consoles": [
@@ -517,7 +517,7 @@
       "userAgent": "Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7585.EU",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "nintendo"
     },
     {
       "name": "Nintendo Wii U Gamepad",
@@ -527,7 +527,7 @@
       "userAgent": "Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.28 (KHTML, like Gecko) NX/3.0.3.12.15 NintendoBrowser/4.1.1.9601.EU",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "nintendo"
     },
     {
       "name": "Sony PlayStation Vita",
@@ -537,7 +537,7 @@
       "userAgent": "Mozilla/5.0 (Playstation Vita 1.61) AppleWebKit/531.22.8 (KHTML, like Gecko) Silk/3.2",
       "touch": true,
       "firefoxOS": false,
-      "marketedAsFirefoxOS": false
+      "os": "playstation"
     }
   ],
   "watches": [
@@ -549,7 +549,7 @@
       "userAgent": "",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "LG G Watch R",
@@ -559,7 +559,7 @@
       "userAgent": "",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Motorola Moto 360",
@@ -569,7 +569,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; Moto 360 Build/LWX48T) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/19.77.34.5 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     },
     {
       "name": "Samsung Gear Live",
@@ -579,7 +579,7 @@
       "userAgent": "",
       "touch": true,
       "firefoxOS": true,
-      "marketedAsFirefoxOS": false
+      "os": "android"
     }
   ]
 }
