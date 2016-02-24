@@ -26,6 +26,7 @@
 - `userAgent` UA string of the device's browser.
 - `touch` whether it has a touch screen.
 - `firefoxOS` whether Firefox OS is supported.
+- `os` the OS type it usually ships with.
 
 ## Device types
 
