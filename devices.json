@@ -334,9 +334,9 @@
   ],
   "tablets": [
     {
-      "name": "Amazon Kindle Fire HDX",
-      "width": 2560,
-      "height": 1600,
+      "name": "Amazon Kindle Fire HDX 8.9",
+      "width": 1280,
+      "height": 800,
       "pixelRatio": 2,
       "userAgent": "Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true",
       "touch": true,
