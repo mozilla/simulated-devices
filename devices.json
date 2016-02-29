@@ -354,10 +354,30 @@
       "os": "ios"
     },
     {
+      "name": "Apple iPad Air 2",
+      "width": 1024,
+      "height": 768,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "ios"
+    },
+    {
       "name": "Apple iPad Mini",
       "width": 1024,
       "height": 768,
       "pixelRatio": 1,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "ios"
+    },
+    {
+      "name": "Apple iPad Mini 2",
+      "width": 1024,
+      "height": 768,
+      "pixelRatio": 2,
       "userAgent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5",
       "touch": true,
       "firefoxOS": false,
