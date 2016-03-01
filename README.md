@@ -40,6 +40,7 @@
 ## Contribute
 
 - Use the `check.html` helper.
+- Use `node test.js` to verify your `devices.json`.
 - Submit [pull requests](https://github.com/jankeromnes/devices/pulls).
 
 ## Sources
