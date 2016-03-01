@@ -486,26 +486,6 @@
   ],
   "laptops": [
     {
-      "name": "Laptop with HiDPI screen",
-      "width": 1440,
-      "height": 900,
-      "pixelRatio": 2,
-      "userAgent": "",
-      "touch": false,
-      "firefoxOS": false,
-      "os": "windows"
-    },
-    {
-      "name": "Laptop with MDPI screen",
-      "width": 1280,
-      "height": 800,
-      "pixelRatio": 1,
-      "userAgent": "",
-      "touch": false,
-      "firefoxOS": false,
-      "os": "windows"
-    },
-    {
       "name": "Laptop (1366 x 768)",
       "width": 1366,
       "height": 768,
@@ -526,10 +506,10 @@
       "os": "windows"
     },
     {
-      "name": "Laptop with touch",
+      "name": "Laptop (1920 x 1080) with touch",
       "width": 1280,
-      "height": 950,
-      "pixelRatio": 1,
+      "height": 720,
+      "pixelRatio": 1.5,
       "userAgent": "",
       "touch": true,
       "firefoxOS": false,
