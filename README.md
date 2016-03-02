@@ -1,4 +1,4 @@
-# devices
+# Simulated Devices
 
 `devices.json` is a catalog of common web-enabled devices and their properties.
 
@@ -36,6 +36,11 @@
 - `televisions`
 - `consoles` (gaming consoles)
 - `watches` (smart watches)
+
+## Downloads
+
+- Stable: [Mozilla CDN](https://code.cdn.mozilla.net/devices/devices.json).
+- Latest: [GitHub](https://raw.githubusercontent.com/mozilla/simulated-devices/master/devices.json).
 
 ## Contribute
 
