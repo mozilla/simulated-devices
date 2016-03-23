@@ -69,7 +69,8 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Safari/601.1",
       "touch": true,
       "firefoxOS": false,
-      "os": "ios"
+      "os": "ios",
+      "preset": true
     },
     {
       "name": "Apple iPhone 6",
@@ -99,7 +100,8 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
       "touch": true,
       "firefoxOS": false,
-      "os": "ios"
+      "os": "ios",
+      "preset": true
     },
     {
       "name": "Apple iPhone 6s Plus",
@@ -109,7 +111,8 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
       "touch": true,
       "firefoxOS": false,
-      "os": "ios"
+      "os": "ios",
+      "preset": true
     },
     {
       "name": "BlackBerry Z30",
@@ -159,7 +162,8 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 4 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": true,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Google Nexus 5",
@@ -169,7 +173,8 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 5 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": true,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Intex Cloud Fx",
@@ -269,7 +274,8 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Samsung Galaxy S6",
@@ -279,7 +285,8 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Sony Xperia Z3",
@@ -361,7 +368,8 @@
       "userAgent": "Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true",
       "touch": true,
       "firefoxOS": false,
-      "os": "fireos"
+      "os": "fireos",
+      "preset": true
     },
     {
       "name": "Apple iPad",
@@ -381,7 +389,8 @@
       "userAgent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5",
       "touch": true,
       "firefoxOS": false,
-      "os": "ios"
+      "os": "ios",
+      "preset": true
     },
     {
       "name": "Apple iPad Mini",
@@ -401,7 +410,8 @@
       "userAgent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5",
       "touch": true,
       "firefoxOS": false,
-      "os": "ios"
+      "os": "ios",
+      "preset": true
     },
     {
       "name": "BlackBerry PlayBook",
@@ -431,7 +441,8 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Google Nexus 10",
@@ -461,7 +472,8 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
       "touch": true,
       "firefoxOS": false,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Tesla Model S",
@@ -493,7 +505,8 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": false,
-      "os": "windows"
+      "os": "windows",
+      "preset": true
     },
     {
       "name": "Laptop (1920 x 1080)",
@@ -503,7 +516,8 @@
       "userAgent": "",
       "touch": false,
       "firefoxOS": false,
-      "os": "windows"
+      "os": "windows",
+      "preset": true
     },
     {
       "name": "Laptop (1920 x 1080) with touch",
