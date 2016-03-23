@@ -177,6 +177,17 @@
       "preset": true
     },
     {
+      "name": "Google Nexus 6",
+      "width": 412,
+      "height": 732,
+      "pixelRatio": 3.5,
+      "userAgent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36",
+      "touch": true,
+      "firefoxOS": true,
+      "os": "android",
+      "preset": true
+    },
+    {
       "name": "Intex Cloud Fx",
       "width": 320,
       "height": 480,
@@ -224,7 +235,8 @@
       "userAgent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)",
       "touch": true,
       "firefoxOS": false,
-      "os": "android"
+      "os": "android",
+      "preset": true
     },
     {
       "name": "Nokia N9",
