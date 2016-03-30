@@ -27,7 +27,6 @@
 - `touch` whether it has a touch screen.
 - `firefoxOS` whether Firefox OS is supported.
 - `os` the OS type it usually ships with.
-- `preset` whether it is in the default enabled set of devices
 
 ## Device types
 

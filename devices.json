@@ -70,7 +70,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "ios",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Apple iPhone 6",
@@ -91,7 +91,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "ios",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Apple iPhone 6s",
@@ -102,7 +102,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "ios",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Apple iPhone 6s Plus",
@@ -163,7 +163,7 @@
       "touch": true,
       "firefoxOS": true,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Google Nexus 5",
@@ -174,7 +174,7 @@
       "touch": true,
       "firefoxOS": true,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Google Nexus 6",
@@ -185,7 +185,7 @@
       "touch": true,
       "firefoxOS": true,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Intex Cloud Fx",
@@ -236,7 +236,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Nokia N9",
@@ -287,7 +287,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Samsung Galaxy S6",
@@ -298,7 +298,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Sony Xperia Z3",
@@ -381,7 +381,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "fireos",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Apple iPad",
@@ -402,7 +402,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "ios",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Apple iPad Mini",
@@ -423,7 +423,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "ios",
-      "preset": true
+      "featured": true
     },
     {
       "name": "BlackBerry PlayBook",
@@ -454,7 +454,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Google Nexus 10",
@@ -485,7 +485,7 @@
       "touch": true,
       "firefoxOS": false,
       "os": "android",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Tesla Model S",
@@ -518,7 +518,7 @@
       "touch": false,
       "firefoxOS": false,
       "os": "windows",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Laptop (1920 x 1080)",
@@ -529,7 +529,7 @@
       "touch": false,
       "firefoxOS": false,
       "os": "windows",
-      "preset": true
+      "featured": true
     },
     {
       "name": "Laptop (1920 x 1080) with touch",
