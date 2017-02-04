@@ -132,7 +132,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true,
-      "os": "android"
+      "os": "fxos"
     },
     {
       "name": "Geeksphone Peak, Revolution",
@@ -142,7 +142,7 @@
       "userAgent": "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
       "touch": true,
       "firefoxOS": true,
-      "os": "android"
+      "os": "fxos"
     },
     {
       "name": "Google Nexus S",
