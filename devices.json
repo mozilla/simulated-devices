@@ -328,8 +328,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "os": "android",
-      "featured": true
+      "os": "android"
     },
     {
       "name": "Samsung Galaxy S7",
@@ -350,8 +349,7 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
       "touch": true,
       "firefoxOS": false,
-      "os": "android",
-      "featured": true
+      "os": "android"
     },
     {
       "name": "Sony Xperia Z3",
