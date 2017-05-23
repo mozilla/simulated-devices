@@ -332,6 +332,28 @@
       "featured": true
     },
     {
+      "name": "Samsung Galaxy S7",
+      "width": 360,
+      "height": 640,
+      "pixelRatio": 4,
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-G930F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "android",
+      "featured": true
+    },
+    {
+      "name": "Samsung Galaxy S8",
+      "width": 360,
+      "height": 740,
+      "pixelRatio": 4,
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "android",
+      "featured": true
+    },
+    {
       "name": "Sony Xperia Z3",
       "width": 360,
       "height": 640,
