@@ -591,6 +591,28 @@
       "touch": true,
       "firefoxOS": false,
       "os": "windows"
+    },
+    {
+      "name": "MacBook Pro 13-inch Retina display",
+      "width": 1280,
+      "height": 800,
+      "pixelRatio": 2,
+      "userAgent": "",
+      "touch": false,
+      "firefoxOS": false,
+      "os": "macOS",
+      "featured": true
+    },
+    {
+      "name": "MacBook Pro 15-inch Retina display",
+      "width": 1440,
+      "height": 900,
+      "pixelRatio": 2,
+      "userAgent": "",
+      "touch": false,
+      "firefoxOS": false,
+      "os": "macOS",
+      "featured": true
     }
   ],
   "televisions": [
