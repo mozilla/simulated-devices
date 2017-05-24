@@ -84,6 +84,15 @@
       "featured": false
     },
     {
+      "name": "Apple iPhone 5s",
+      "width": 320,
+      "height": 568,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Safari/601.1",
+      "touch": true,
+      "firefoxOS": false
+    },
+    {
       "name": "Apple iPhone 6",
       "width": 375,
       "height": 667,
@@ -144,6 +153,24 @@
       "touch": true,
       "firefoxOS": false,
       "os": "ios"
+    },
+    {
+      "name": "Apple iPhone 6s",
+      "width": 375,
+      "height": 667,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
+      "touch": true,
+      "firefoxOS": false
+    },
+    {
+      "name": "Apple iPhone 6s Plus",
+      "width": 414,
+      "height": 736,
+      "pixelRatio": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4",
+      "touch": true,
+      "firefoxOS": false
     },
     {
       "name": "BlackBerry Z30",
