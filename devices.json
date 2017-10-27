@@ -572,7 +572,7 @@
       "featured": true
     },
     {
-      "name": "Laptop (1920 x 1080)",
+      "name": "Laptop (1280 x 720 @ 1.5dppx)",
       "width": 1280,
       "height": 720,
       "pixelRatio": 1.5,
@@ -583,7 +583,7 @@
       "featured": true
     },
     {
-      "name": "Laptop (1920 x 1080) with touch",
+      "name": "Laptop (1280 x 720 @ 1.5dppx) with touch",
       "width": 1280,
       "height": 720,
       "pixelRatio": 1.5,
