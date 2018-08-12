@@ -115,6 +115,36 @@
       "os": "ios"
     },
     {
+      "name": "Apple iPhone 8",
+      "width": 375,
+      "height": 667,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.25 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "ios"
+    },
+    {
+      "name": "Apple iPhone 8 Plus",
+      "width": 414,
+      "height": 736,
+      "pixelRatio": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.25 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "ios"
+    },
+    {
+      "name": "Apple iPhone X",
+      "width": 375,
+      "height": 812,
+      "pixelRatio": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.25 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "firefoxOS": false,
+      "os": "ios"
+    },
+    {
       "name": "BlackBerry Z30",
       "width": 360,
       "height": 640,
