@@ -11,8 +11,7 @@
           height: 640,
           pixelRatio: 3,
           userAgent: "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
-          touch: true,
-          firefoxOS: true
+          touch: true
         }
       ], …
     }
@@ -25,7 +24,6 @@
 - `pixelRatio` ratio from viewport to physical screen pixels.
 - `userAgent` UA string of the device's browser.
 - `touch` whether it has a touch screen.
-- `firefoxOS` whether Firefox OS is supported.
 - `os` the OS type it usually ships with.
 
 ## Device types

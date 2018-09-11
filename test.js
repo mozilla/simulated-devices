@@ -8,7 +8,6 @@ var deviceProperties = {
   pixelRatio: "number",
   userAgent: "string",
   touch: "boolean",
-  firefoxOS: "boolean",
   os: "string"
 };
 
