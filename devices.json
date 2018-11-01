@@ -239,32 +239,32 @@
     {
       "name": "Laptop with HiDPI screen",
       "featured": false,
-      "width": 900,
+      "width": 1440,
+      "height": 900,
       "userAgent": "",
       "touch": false,
       "os": "",
-      "pixelRatio": 2,
-      "height": 1440
+      "pixelRatio": 2
     },
     {
       "name": "Laptop with MDPI screen",
       "featured": false,
-      "width": 800,
+      "width": 1280,
+      "height": 800,
       "userAgent": "",
       "touch": false,
       "os": "",
-      "pixelRatio": 1,
-      "height": 1280
+      "pixelRatio": 1
     },
     {
       "name": "Laptop with touch",
       "featured": false,
-      "width": 950,
+      "width": 1280,
+      "height": 950,
       "userAgent": "",
       "touch": true,
       "os": "",
-      "pixelRatio": 1,
-      "height": 1280
+      "pixelRatio": 1
     }
   ],
   "televisions": [
