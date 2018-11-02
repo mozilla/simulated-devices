@@ -155,14 +155,34 @@
       "height": 736
     },
     {
-      "name": "iPhone X",
+      "name": "iPhone X/XS",
       "featured": true,
       "width": 375,
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
       "touch": true,
       "os": "",
       "pixelRatio": 3,
       "height": 812
+    },
+    {
+      "name": "iPhone XR",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 896
+    },
+    {
+      "name": "iPhone XS Max",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 896
     }
   ],
   "tablets": [
