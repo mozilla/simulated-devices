@@ -1,0 +1,19 @@
+{
+  "name": "devices.json",
+  "version": "1.0.0",
+  "description": "A catalog of common web-enabled devices.",
+  "main": "devices.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/simulated-devices"
+  },
+  "author": "Mozilla",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/mozilla/simulated-devices/issues"
+  },
+  "homepage": "https://code.cdn.mozilla.net/devices/devices.json"
+}
