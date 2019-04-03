@@ -68,12 +68,12 @@
     {
       "name": "Microsoft Lumia 950",
       "featured": false,
-      "width": 360,
+      "width": 640,
       "userAgent": "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263",
       "touch": true,
       "os": "",
       "pixelRatio": 4,
-      "height": 640
+      "height": 320
     },
     {
       "name": "Nexus 5X",
