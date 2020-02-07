@@ -1,11 +1,22 @@
 language: node_js
 node_js: 10
 deploy:
-  provider: npm
-  email:
-    secure: FMpWsOFqHY3KN3foFcJOtK2C4BNy4AJjnd35l/RKANSvBm3Vhv+vhCO8rrcqKqTs83+JQg/Y961HOJLnfjqMyw6F/j36Ndc5+1tShWmdCby7QGUt1aKxJcxNDKwr8T5tv209OqIIepEsIZJLnCx3RCEDhviIye2Vd/DKd873MSA=
-  api_key:
-    secure: E6KUvWjEjGfzy+/kQNhKVUW+euhdmB8f1FCt2xbwFJxbfxb7UtTtVeLX48O+yUDfdLjHvc3Q/tgysuOBG+z/5HrSAuOk+01CI5mB6jNs0HrZphKqV4koxvaNbjkgv74uma8xirat/GePsxXTV1GyQHkLRTtzPV9O8lHIvoZgT3k=
-  on:
-    branch: master
-    tags: true
+  - provider: npm
+    email:
+      secure: FMpWsOFqHY3KN3foFcJOtK2C4BNy4AJjnd35l/RKANSvBm3Vhv+vhCO8rrcqKqTs83+JQg/Y961HOJLnfjqMyw6F/j36Ndc5+1tShWmdCby7QGUt1aKxJcxNDKwr8T5tv209OqIIepEsIZJLnCx3RCEDhviIye2Vd/DKd873MSA=
+    api_key:
+      secure: E6KUvWjEjGfzy+/kQNhKVUW+euhdmB8f1FCt2xbwFJxbfxb7UtTtVeLX48O+yUDfdLjHvc3Q/tgysuOBG+z/5HrSAuOk+01CI5mB6jNs0HrZphKqV4koxvaNbjkgv74uma8xirat/GePsxXTV1GyQHkLRTtzPV9O8lHIvoZgT3k=
+    on:
+      branch: master
+      tags: true
+  - provider: s3
+    access_key_id:
+      secure: TODO
+    secret_access_key:
+      secure: TODO
+    bucket: "TODO"
+    acl: public-read
+    cache_control: "max-age=86400"
+    on:
+      branch: master
+      tags: true
