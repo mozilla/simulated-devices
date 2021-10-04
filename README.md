@@ -11,6 +11,7 @@
           height: 640,
           pixelRatio: 3,
           userAgent: "Mozilla/5.0 (Mobile; rv:39.0) Gecko/39.0 Firefox/39.0",
+          featured: true,
           touch: true
         }
       ], …
@@ -25,6 +26,7 @@
 - `userAgent` UA string of the device's browser.
 - `touch` whether it has a touch screen.
 - `os` the OS type it usually ships with.
+- `featured` if set to true, the device appears in the RDM drop down list (Firefox UI) by default
 
 ## Device types
 
